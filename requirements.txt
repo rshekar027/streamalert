@@ -61,7 +61,7 @@ idna==2.7
 imagesize==1.0.0
 ipaddress==1.0.22
 isort==4.3.4
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.3
 jsondiff==1.1.1
 jsonpickle==0.9.6
@@ -82,12 +82,12 @@ pycodestyle==2.4.0
 pycparser==2.18
 pycryptodome==3.6.6
 pyflakes==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.6.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 pytz==2018.5
-PyYAML==4.2b1
+PyYAML==5.3.1
 requests-toolbelt==0.8.0
 responses==0.9.0
 rsa==3.4.2
