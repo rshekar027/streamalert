@@ -22,7 +22,7 @@ pyfakefs==3.4.3
 pylint==1.7.4
 python-dateutil==2.6.1
 requests==2.20
-Sphinx==1.7.6
+Sphinx==3.0.4
 sphinx-rtd-theme==0.4.1
 ushlex==0.99
 yapf==0.22.0
