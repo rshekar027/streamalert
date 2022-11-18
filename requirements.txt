@@ -74,7 +74,7 @@ pbr==4.2.0
 pika==0.12.0
 ply==3.11
 prompt-toolkit==2.0.4
-protobuf==3.6.0
+protobuf==3.18.3
 pyaml==17.12.1
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
@@ -82,12 +82,12 @@ pycodestyle==2.4.0
 pycparser==2.18
 pycryptodome==3.6.6
 pyflakes==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.6.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 pytz==2018.5
-PyYAML==4.2b1
+PyYAML==5.4
 requests-toolbelt==0.8.0
 responses==0.9.0
 rsa==3.4.2
@@ -102,9 +102,10 @@ stevedore==1.29.0
 termcolor==1.1.0
 typing==3.6.4
 uritemplate==3.0.0
-urllib3==1.24.3
+urllib3==1.26.5
 wcwidth==0.1.7
 websocket-client==0.48.0
 Werkzeug==0.15.3
 wrapt==1.10.11
 xmltodict==0.11.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
