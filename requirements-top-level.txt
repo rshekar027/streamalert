@@ -26,3 +26,4 @@ Sphinx
 sphinx-rtd-theme
 ushlex
 yapf
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
